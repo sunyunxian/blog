@@ -48,4 +48,4 @@ jobs:
           # Prevent Jekyll from building the site
           jekyll: false
         env:
-          GITHUB_TOKEN: ${{ secrets.RUNNING_PAGE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.BLOG_TOKEN }}
