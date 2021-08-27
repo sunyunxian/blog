@@ -6,7 +6,7 @@ categories: [tech]
 tags: []
 ---
 
-![about_emoji](/images/about_emoji.jpg)
+![about_emoji](/blog/images/about_emoji.jpg)
 
 
 简单聊聊 Emoji，关于 emoji 你知道多少？

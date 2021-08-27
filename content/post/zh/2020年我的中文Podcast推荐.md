@@ -6,7 +6,7 @@ categories: [podcast]
 tags: []
 ---
 
-![podcast_list](/images/my_2020_podacat_list.jpg)
+![podcast_list](/blog/images/my_2020_podacat_list.jpg)
 
 从 2013 年上大学开始，就开始听 Podcast，从大内密谈开始到现在还是很喜欢听，我觉得 Podcast 很大的意义上就是陪伴！下面介绍一下 2020 年经常听的一些中文 Podcast，算是一个推荐吧，因为每个人的喜好不一样，这里只做推荐，可以看成是一个 list，没有给出推荐理由，这也是我的第一期关于 Podcast 的内容，后续还会写一些，先开个头！
 
