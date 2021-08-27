@@ -1,0 +1,6 @@
+# url 配置
+baseURL: "https://nanjingfrank.github.io/blog"
+# 网站语言
+LanguageCode: "zh-cn"
+# 默认语言，如果你有多语言的需求可以配置此项
+DefaultContentLanguage: "zh-cn"

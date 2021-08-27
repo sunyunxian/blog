@@ -1,0 +1,4 @@
+menu.main:
+  name: "博客"
+  url: ""
+  weight: 1

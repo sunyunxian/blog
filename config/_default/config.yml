@@ -1,0 +1,19 @@
+# 服务器域名地址
+baseURL: "https://example.com"
+# 网站标题，浏览器 tab 页的显示
+title: "Frank's Blog"
+# 网站语言
+LanguageCode: "zh"
+# 默认语言，如果你有多语言的需求可以配置此项
+DefaultContentLanguage: "zh"
+# 是否编译草稿
+buildDrafts: false
+# Google 的统计
+googleAnalytics: ""
+# 是否将路径变成小写
+disablePathToLower: true
+
+# 个人配置
+
+# 使用的主题
+theme: "simple"
