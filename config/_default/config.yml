@@ -1,5 +1,5 @@
-# 服务器域名地址
-baseURL: "https://example.com"
+# url 配置
+baseURL: "https://nanjingfrank.github.io/blog"
 # 网站标题，浏览器 tab 页的显示
 title: "Frank's Blog"
 # 网站语言
