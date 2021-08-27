@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>review on Frank&#39;s Blog</title>
-    <link>https://example.com/categories/review/</link>
+    <link>https://nanjingfrank.github.io/blog/categories/review/</link>
     <description>Recent content in review on Frank&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Thu, 31 Dec 2020 22:53:07 +0800</lastBuildDate><atom:link href="https://example.com/categories/review/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 31 Dec 2020 22:53:07 +0800</lastBuildDate><atom:link href="https://nanjingfrank.github.io/blog/categories/review/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>再见 2020</title>
-      <link>https://example.com/post/zh/%E5%86%8D%E8%A7%812020/</link>
+      <link>https://nanjingfrank.github.io/blog/post/zh/%E5%86%8D%E8%A7%812020/</link>
       <pubDate>Thu, 31 Dec 2020 22:53:07 +0800</pubDate>
       
-      <guid>https://example.com/post/zh/%E5%86%8D%E8%A7%812020/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://example.com/images/2020_review.jpg&#34; alt=&#34;2020_review&#34;&gt;&lt;/p&gt;
+      <guid>https://nanjingfrank.github.io/blog/post/zh/%E5%86%8D%E8%A7%812020/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://nanjingfrank.github.io/blog/images/2020_review.jpg&#34; alt=&#34;2020_review&#34;&gt;&lt;/p&gt;
 &lt;p&gt;非常简单的在 2020 年最后的一个多小时写了点，也算是画个句号和给自己 2020 一个交代，给自己 2021 年的目标关键词是记录。&lt;/p&gt;</description>
     </item>
     

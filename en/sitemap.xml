@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/en/categories/</loc>
+    <loc>https://nanjingfrank.github.io/blog/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/categories/"
+                href="https://nanjingfrank.github.io/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://example.com/languages/categories/"
+                href="https://nanjingfrank.github.io/blog/languages/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/categories/"
+                href="https://nanjingfrank.github.io/blog/en/categories/"
                 />
   </url><url>
-    <loc>https://example.com/en/</loc>
+    <loc>https://nanjingfrank.github.io/blog/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/"
+                href="https://nanjingfrank.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://example.com/languages/"
+                href="https://nanjingfrank.github.io/blog/languages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/"
+                href="https://nanjingfrank.github.io/blog/en/"
                 />
   </url><url>
-    <loc>https://example.com/en/tags/</loc>
+    <loc>https://nanjingfrank.github.io/blog/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://example.com/languages/tags/"
+                href="https://nanjingfrank.github.io/blog/languages/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://example.com/tags/"
+                href="https://nanjingfrank.github.io/blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://example.com/en/tags/"
+                href="https://nanjingfrank.github.io/blog/en/tags/"
                 />
   </url>
 </urlset>
