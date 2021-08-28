@@ -1,5 +1,5 @@
 # url 配置
-baseURL: "https://nanjingfrank.github.io/blog/"
+baseURL: "https://nanjingfrank.github.io/tech_blog/"
 LanguagePrefix": "blog"
 
 # 网站标题，浏览器 tab 页的显示
