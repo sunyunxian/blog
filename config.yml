@@ -1,5 +1,5 @@
 # url 配置
-baseURL: "https://nanjingfrank.github.io/blog/"
+baseURL: "https://ok-frank.github.io/blog/"
 LanguagePrefix": "blog"
 
 # 网站标题，浏览器 tab 页的显示
@@ -7,7 +7,7 @@ title: "Frank's Blog"
 
 author:
   name: "Frank"
-  homepage: "https://nanjingfrank.github.io/"
+  homepage: "https://ok-frank.github.io/"
   blog_homepage: "/blog"
   # 网站语言
 LanguageCode: "zh"
