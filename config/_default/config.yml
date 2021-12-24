@@ -1,12 +1,12 @@
 # url 配置
-baseURL: "https://sunyunxian.github.io/"
-LanguagePrefix": "blog"
+baseURL: "https://sunyunxian.github.io/blog"
+# LanguagePrefix": "blog"
 
 # 网站标题，浏览器 tab 页的显示
 title: "Frank's Blog"
 
 author:
-  name: "sunyunxian"
+  name: "SunYunxian"
   homepage: "https://sunyunxian.github.io/"
   blog_homepage: "/blog"
   # 网站语言
