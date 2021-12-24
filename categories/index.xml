@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Frank&#39;s Blog</title>
-    <link>https://sunyunxian.github.io/categories/</link>
+    <link>https://sunyunxian.github.io/blog/categories/</link>
     <description>Recent content in Categories on Frank&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 03 Apr 2021 17:27:13 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 17:27:13 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/blog/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>工作</title>
-      <link>https://sunyunxian.github.io/categories/%E5%B7%A5%E4%BD%9C/</link>
+      <link>https://sunyunxian.github.io/blog/categories/%E5%B7%A5%E4%BD%9C/</link>
       <pubDate>Sat, 03 Apr 2021 17:27:13 +0800</pubDate>
       
-      <guid>https://sunyunxian.github.io/categories/%E5%B7%A5%E4%BD%9C/</guid>
+      <guid>https://sunyunxian.github.io/blog/categories/%E5%B7%A5%E4%BD%9C/</guid>
       <description></description>
     </item>
     
     <item>
       <title>生活</title>
-      <link>https://sunyunxian.github.io/categories/%E7%94%9F%E6%B4%BB/</link>
+      <link>https://sunyunxian.github.io/blog/categories/%E7%94%9F%E6%B4%BB/</link>
       <pubDate>Thu, 31 Dec 2020 22:53:07 +0800</pubDate>
       
-      <guid>https://sunyunxian.github.io/categories/%E7%94%9F%E6%B4%BB/</guid>
+      <guid>https://sunyunxian.github.io/blog/categories/%E7%94%9F%E6%B4%BB/</guid>
       <description></description>
     </item>
     

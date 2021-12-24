@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sunyunxian.github.io/languages/categories/</loc>
+    <loc>https://sunyunxian.github.io/blog/languages/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://sunyunxian.github.io/categories/"
+                href="https://sunyunxian.github.io/blog/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sunyunxian.github.io/en/categories/"
+                href="https://sunyunxian.github.io/blog/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://sunyunxian.github.io/languages/categories/"
+                href="https://sunyunxian.github.io/blog/languages/categories/"
                 />
   </url><url>
-    <loc>https://sunyunxian.github.io/languages/</loc>
+    <loc>https://sunyunxian.github.io/blog/languages/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://sunyunxian.github.io/"
+                href="https://sunyunxian.github.io/blog/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sunyunxian.github.io/en/"
+                href="https://sunyunxian.github.io/blog/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://sunyunxian.github.io/languages/"
+                href="https://sunyunxian.github.io/blog/languages/"
                 />
   </url><url>
-    <loc>https://sunyunxian.github.io/languages/tags/</loc>
+    <loc>https://sunyunxian.github.io/blog/languages/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://sunyunxian.github.io/tags/"
+                href="https://sunyunxian.github.io/blog/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://sunyunxian.github.io/en/tags/"
+                href="https://sunyunxian.github.io/blog/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://sunyunxian.github.io/languages/tags/"
+                href="https://sunyunxian.github.io/blog/languages/tags/"
                 />
   </url>
 </urlset>

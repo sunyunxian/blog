@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>工作 on Frank&#39;s Blog</title>
-    <link>https://sunyunxian.github.io/categories/%E5%B7%A5%E4%BD%9C/</link>
+    <link>https://sunyunxian.github.io/blog/categories/%E5%B7%A5%E4%BD%9C/</link>
     <description>Recent content in 工作 on Frank&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Sat, 03 Apr 2021 17:27:13 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/categories/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Apr 2021 17:27:13 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/blog/categories/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>简单聊聊 Emoji</title>
-      <link>https://sunyunxian.github.io/post/zh/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8AEmoji/</link>
+      <link>https://sunyunxian.github.io/blog/post/zh/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8AEmoji/</link>
       <pubDate>Sat, 03 Apr 2021 17:27:13 +0800</pubDate>
       
-      <guid>https://sunyunxian.github.io/post/zh/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8AEmoji/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/tech_blog/images/about_emoji.jpg&#34; alt=&#34;about_emoji&#34;&gt;&lt;/p&gt;
+      <guid>https://sunyunxian.github.io/blog/post/zh/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8AEmoji/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/tech_blog/images/about_emoji.jpg&#34; alt=&#34;about_emoji&#34;&gt;&lt;/p&gt;
 &lt;p&gt;简单聊聊 Emoji，关于 emoji 你知道多少？&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>关于项目文档编写的一些思考和实践</title>
-      <link>https://sunyunxian.github.io/post/zh/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</link>
+      <link>https://sunyunxian.github.io/blog/post/zh/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</link>
       <pubDate>Sat, 30 Jan 2021 19:43:21 +0800</pubDate>
       
-      <guid>https://sunyunxian.github.io/post/zh/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</guid>
+      <guid>https://sunyunxian.github.io/blog/post/zh/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</guid>
       <description>关于项目文档编写的一些思考和实践，分享我的选择文档工具的标准，日常写文档 flow 和工具推荐
 本文知识简单的讨论，不涉及到项目文档的一些很具体的写作手法，可以推荐一份 Google 的学习资源 Google 技术写作课程，里面也提到了一个很重要的概念「Every engineer is also a writer.」，最佳实践可以参考Google 开发者文档风格，当然也可以参考一下现在非常优秀的开源作品，比如 Vue、requests 等；
 为什么需要一份好的文档 一个成功的项目除了一些必须的因素之外，一个好的测试覆盖率、文档、维护活跃度、推广等等都是不可或缺的，软件工程不是代码工程，文档是软件工程中一个很重要的事情！一个项目映入眼帘的第一个是 README 文档，简单的介绍项目的内容和特色等，再往下就是项目文档，把整个项目 10% 的时间用来写文档也不为过！
@@ -35,21 +35,21 @@
     
     <item>
       <title>常用的软件开发工具</title>
-      <link>https://sunyunxian.github.io/post/zh/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
+      <link>https://sunyunxian.github.io/blog/post/zh/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
       <pubDate>Sat, 26 Dec 2020 19:26:19 +0800</pubDate>
       
-      <guid>https://sunyunxian.github.io/post/zh/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/tech_blog/images/develop_tools.jpg&#34; alt=&#34;develop_tools&#34;&gt;&lt;/p&gt;
+      <guid>https://sunyunxian.github.io/blog/post/zh/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/tech_blog/images/develop_tools.jpg&#34; alt=&#34;develop_tools&#34;&gt;&lt;/p&gt;
 &lt;p&gt;主要介绍个人开发常用的软件（Development Tools），暂不包括一些团队经常使用的软件比如 Gitlab、Jenkins&amp;hellip;每个人都有自己的喜爱，但是我想这些工具和产品只是辅助，最重要的是提供开发的便利，而不是陷入无边的争论中。&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>工作三年，焦虑的想浅谈一下职场</title>
-      <link>https://sunyunxian.github.io/post/zh/%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E7%84%A6%E8%99%91%E7%9A%84%E6%83%B3%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%81%8C%E5%9C%BA/</link>
+      <link>https://sunyunxian.github.io/blog/post/zh/%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E7%84%A6%E8%99%91%E7%9A%84%E6%83%B3%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%81%8C%E5%9C%BA/</link>
       <pubDate>Thu, 20 Aug 2020 15:57:50 +0800</pubDate>
       
-      <guid>https://sunyunxian.github.io/post/zh/%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E7%84%A6%E8%99%91%E7%9A%84%E6%83%B3%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%81%8C%E5%9C%BA/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/work_3_year.jpg&#34; alt=&#34;work_3_year&#34;&gt;&lt;/p&gt;
+      <guid>https://sunyunxian.github.io/blog/post/zh/%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E7%84%A6%E8%99%91%E7%9A%84%E6%83%B3%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%81%8C%E5%9C%BA/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/blog/images/work_3_year.jpg&#34; alt=&#34;work_3_year&#34;&gt;&lt;/p&gt;
 &lt;p&gt;此篇是 2020 年夏天时候比较焦虑的时候看的一个 talk，结合自己的感受整理和加工的文章，因为存在 iPhone 的 note 里面，格式不兼容，就转移出来了，整个文章可能偏公立一点，忽略人的价值，仅供参考！在 2021 年转回头看其实是有点无病呻吟，心态又不一样了，Anyway，这就是记录的意义吧。&lt;/p&gt;</description>
     </item>
     

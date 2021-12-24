@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Frank&#39;s Blog</title>
-    <link>https://sunyunxian.github.io/tags/</link>
+    <link>https://sunyunxian.github.io/blog/tags/</link>
     <description>Recent content in Tags on Frank&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh</language>
-    <lastBuildDate>Fri, 25 Dec 2020 00:32:06 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 25 Dec 2020 00:32:06 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>播客</title>
-      <link>https://sunyunxian.github.io/tags/%E6%92%AD%E5%AE%A2/</link>
+      <link>https://sunyunxian.github.io/blog/tags/%E6%92%AD%E5%AE%A2/</link>
       <pubDate>Fri, 25 Dec 2020 00:32:06 +0800</pubDate>
       
-      <guid>https://sunyunxian.github.io/tags/%E6%92%AD%E5%AE%A2/</guid>
+      <guid>https://sunyunxian.github.io/blog/tags/%E6%92%AD%E5%AE%A2/</guid>
       <description></description>
     </item>
     

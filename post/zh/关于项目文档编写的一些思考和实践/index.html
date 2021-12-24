@@ -6,9 +6,9 @@
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <meta name="author" content="sunyunxian" />
-  <meta property="og:url" content="https://sunyunxian.github.io/post/zh/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/" />
-  <link rel="canonical" href="https://sunyunxian.github.io/post/zh/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/" /><link rel="alternate" type="application/atom+xml" href="https://sunyunxian.github.io/index.xml" title="Frank&#39;s Blog">
+  <meta name="author" content="SunYunxian" />
+  <meta property="og:url" content="https://sunyunxian.github.io/blog/post/zh/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/" />
+  <link rel="canonical" href="https://sunyunxian.github.io/blog/post/zh/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/" /><link rel="alternate" type="application/atom+xml" href="https://sunyunxian.github.io/blogindex.xml" title="Frank&#39;s Blog">
 
   <script type="application/ld+json">
   {
@@ -16,22 +16,22 @@
       "@type" : "BlogPosting",
       "mainEntityOfPage": {
            "@type": "WebPage",
-           "@id": "https:\/\/sunyunxian.github.io\/"
+           "@id": "https:\/\/sunyunxian.github.io\/blog"
       },
       "articleSection" : "post",
       "name" : "关于项目文档编写的一些思考和实践",
       "headline" : "关于项目文档编写的一些思考和实践",
       "description" : "关于项目文档编写的一些思考和实践，分享我的选择文档工具的标准，日常写文档 flow 和工具推荐\n本文知识简单的讨论，不涉及到项目文档的一些很具体的写作手法，可以推荐一份 Google 的学习资源 Google 技术写作课程，里面也提到了一个很重要的概念「Every engineer is also a writer.」，最佳实践可以参考Google 开发者文档风格，当然也可以参考一下现在非常优秀的开源作品，比如 Vue、requests 等；\n为什么需要一份好的文档 一个成功的项目除了一些必须的因素之外，一个好的测试覆盖率、文档、维护活跃度、推广等等都是不可或缺的，软件工程不是代码工程，文档是软件工程中一个很重要的事情！一个项目映入眼帘的第一个是 README 文档，简单的介绍项目的内容和特色等，再往下就是项目文档，把整个项目 10% 的时间用来写文档也不为过！\n如果一个项目连文档都很应付，你能期待项目的代码写的会很好吗？\n什么才是一个好的文档工具 我认为一个好的文档工具应该有一下的特点：\n 和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；\n我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；\n工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information site_name: My blog backup site_url: https:\/\/sunyunxian.github.io\/blog-doc-backup\/ site_author: Martin Donath site_description: \u0026gt;- personal blog backup,  # Repository repo_name: sunyunxian\/blog-doc-backup repo_url: https:\/\/github.",
       "inLanguage" : "en-US",
-      "author" : "sunyunxian",
-      "creator" : "sunyunxian",
-      "publisher": "sunyunxian",
-      "accountablePerson" : "sunyunxian",
-      "copyrightHolder" : "sunyunxian",
+      "author" : "SunYunxian",
+      "creator" : "SunYunxian",
+      "publisher": "SunYunxian",
+      "accountablePerson" : "SunYunxian",
+      "copyrightHolder" : "SunYunxian",
       "copyrightYear" : "2021",
       "datePublished": "2021-01-30 19:43:21 \u002b0800 \u002b0800",
       "dateModified" : "2021-01-30 19:43:21 \u002b0800 \u002b0800",
-      "url" : "https:\/\/sunyunxian.github.io\/post\/zh\/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5\/",
+      "url" : "https:\/\/sunyunxian.github.io\/blog\/post\/zh\/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5\/",
       "keywords" : [  ]
   }
 </script>
@@ -65,7 +65,7 @@
 
   
 
-  <link href="/index.xml" rel="alternate" type="application/rss+xml"
+  <link href="/blog/index.xml" rel="alternate" type="application/rss+xml"
     title="Frank&#39;s Blog">
   
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -125,7 +125,7 @@
             <div class="col-xs-6">
               
               <div class="post-author">
-                <a target="_blank" href="https://sunyunxian.github.io/">@sunyunxian</a>
+                <a target="_blank" href="https://sunyunxian.github.io/">@SunYunxian</a>
               </div>
               
             </div>
