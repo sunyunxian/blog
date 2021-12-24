@@ -2,55 +2,55 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://nanjingfrank.github.io/tech_blog/en/categories/</loc>
+    <loc>https://sunyunxian.github.io/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nanjingfrank.github.io/tech_blog/categories/"
+                href="https://sunyunxian.github.io/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://nanjingfrank.github.io/tech_blog/languages/categories/"
+                href="https://sunyunxian.github.io/languages/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nanjingfrank.github.io/tech_blog/en/categories/"
+                href="https://sunyunxian.github.io/en/categories/"
                 />
   </url><url>
-    <loc>https://nanjingfrank.github.io/tech_blog/en/</loc>
+    <loc>https://sunyunxian.github.io/en/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nanjingfrank.github.io/tech_blog/"
+                href="https://sunyunxian.github.io/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="languages"
-                href="https://nanjingfrank.github.io/tech_blog/languages/"
+                href="https://sunyunxian.github.io/languages/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nanjingfrank.github.io/tech_blog/en/"
+                href="https://sunyunxian.github.io/en/"
                 />
   </url><url>
-    <loc>https://nanjingfrank.github.io/tech_blog/en/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="languages"
-                href="https://nanjingfrank.github.io/tech_blog/languages/tags/"
-                />
+    <loc>https://sunyunxian.github.io/en/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="https://nanjingfrank.github.io/tech_blog/tags/"
+                href="https://sunyunxian.github.io/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="languages"
+                href="https://sunyunxian.github.io/languages/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://nanjingfrank.github.io/tech_blog/en/tags/"
+                href="https://sunyunxian.github.io/en/tags/"
                 />
   </url>
 </urlset>
