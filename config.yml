@@ -1,6 +1,7 @@
 
 # base config
-baseURL: "https://sunyunxian.github.io/blog"
+baseURL: "https://sunyunxian.github.io/blog/"
+CanonifyURLs: true # fix suburl error
 theme: "yinyang"
 title: "SunYunxian's Blog" # tab display
 LanguageCode: "en-us" # language
@@ -12,7 +13,7 @@ disablePathToLower: true
 author:
   name: "SunYunxian"
   homepage: "https://sunyunxian.github.io/sunyunxian/"
-  blog_homepage: "/blog"
+  # blog_homepage: ""
 #-----------------------------------------------
 languages:
   # en:
