@@ -37,7 +37,7 @@ params:
   # description: "Welcome to my blog"
   mainSections: "posts" # # post path
   lazyImage: true
-  disqus: "_Frank" # disqus account name
+  disqus: "https-sunyunxian-github-io-blog" # disqus account name
 
   # extraCSSFiles: ["css/foo.css", "css/bar.css"]
   extraHead: '<script async src: "https://www.googletagmanager.com/gtag/js?id=XXXX"></script>'
