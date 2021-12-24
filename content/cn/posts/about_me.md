@@ -6,7 +6,7 @@ categories: [生活]
 tags: []
 ---
 
-![about](/tech_blog/images/about_me.jpg)
+![about](/images/about_me.jpg)
 
 本文模仿[「利器社群计划」](https://mp.weixin.qq.com/s?__biz=MzA3NTgzNzU2NQ==&mid=400594784&idx=1&sn=a88b34faa7522206957d448d40ea0b31&scene=21#wechat_redirect)，主要向自己提问几个问题，在此基础问题上进行的拓展。
 <!--more-->
