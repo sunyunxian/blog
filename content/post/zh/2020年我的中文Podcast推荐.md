@@ -2,8 +2,8 @@
 title: "2020 年我的中文 Podcast 推荐"
 date: 2020-12-25T00:32:06+08:00
 draft: false
-categories: [podcast]
-tags: []
+categories: [生活]
+tags: [播客]
 ---
 
 ![podcast_list](/blog/images/my_2020_podacat_list.jpg)

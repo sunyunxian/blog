@@ -1,0 +1,10 @@
+# 多语言配置
+languages:
+  cn:
+    contentDir: "content/post/zh"
+    languageName: "Chinese"
+    weight: 1
+  en:
+    contentDir: "content/post/en"
+    languageName: "English"
+    weight: 2
