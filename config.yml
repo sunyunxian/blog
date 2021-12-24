@@ -40,7 +40,7 @@ params:
   disqus: "https-sunyunxian-github-io-blog" # disqus account name
 
   # extraCSSFiles: ["css/foo.css", "css/bar.css"]
-  extraHead: '<script async src: "https://www.googletagmanager.com/gtag/js?id=XXXX"></script>'
+  extraHead: '<script async src: "https://www.googletagmanager.com/gtag/js?id=UA-215882903-1"></script>'
   # postHeaderContent: ""
   # postFooterContent: "<br/><br/><p>Subscribe：<a target='_blank' href='https://mailchi.mp/a1a0d59e7a19/joway'>Joway's Blog</a></p>"
   socials:
