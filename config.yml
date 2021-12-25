@@ -34,7 +34,7 @@ markup:
 #----------------------------------------------
 params:
   # headTitle: "Frank"
-  # description: "Welcome to my blog"
+  description: "欢迎来到场上没有别人博客，分享数字产品或科学方法的一些思考和实践，提升工作效率和生活品质"
   mainSections: "posts" # # post path
   lazyImage: true
   disqus: "https-sunyunxian-github-io-blog" # disqus account name
