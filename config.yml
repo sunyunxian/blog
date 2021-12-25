@@ -3,7 +3,7 @@
 baseURL: "https://sunyunxian.github.io/blog/"
 CanonifyURLs: true # fix suburl error
 theme: "yinyang"
-title: "SunYunxian's Blog" # tab display
+title: "场上没有别人 - No Others " # tab display
 LanguageCode: "en-us" # language
 DefaultContentLanguage: "cn" # default display which language posts
 enableRobotsTXT: true
@@ -11,7 +11,7 @@ buildDrafts: false
 disablePathToLower: true
 #-----------------------------------------------
 author:
-  name: "SunYunxian"
+  name: "_Frank"
   homepage: "https://sunyunxian.github.io/sunyunxian/"
   # blog_homepage: ""
 #-----------------------------------------------
@@ -33,7 +33,7 @@ markup:
     # tabWidth: 2
 #----------------------------------------------
 params:
-  headTitle: "Frank"
+  # headTitle: "Frank"
   # description: "Welcome to my blog"
   mainSections: "posts" # # post path
   lazyImage: true
@@ -44,7 +44,15 @@ params:
   # postHeaderContent: ""
   # postFooterContent: "<br/><br/><p>Subscribe：<a target='_blank' href='https://mailchi.mp/a1a0d59e7a19/joway'>Joway's Blog</a></p>"
   socials:
-    - name: "About"
-    - link: "https://"
+    - 
+      name: "Home"
+      link: "/"
+    - 
+      name: "About"
+      link: "posts/about_me/"
+    - 
+      name: "Email"
+      link: "mailto:personal.sunyunxian+blog@gmail.com"
+
   twitterCards: true
 #--------------------------------------------
