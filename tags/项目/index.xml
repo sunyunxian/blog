@@ -1,22 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>工作 on 场上没有别人 - No Others </title>
-    <link>https://sunyunxian.github.io/blog/categories/%E5%B7%A5%E4%BD%9C/</link>
-    <description>Recent content in 工作 on 场上没有别人 - No Others </description>
+    <title>项目 on 场上没有别人 - No Others </title>
+    <link>https://sunyunxian.github.io/blog/tags/%E9%A1%B9%E7%9B%AE/</link>
+    <description>Recent content in 项目 on 场上没有别人 - No Others </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Apr 2021 17:27:13 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/blog/categories/%E5%B7%A5%E4%BD%9C/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>简单聊聊 Emoji</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8AEmoji/</link>
-      <pubDate>Sat, 03 Apr 2021 17:27:13 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8AEmoji/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/about_emoji.jpg&#34; alt=&#34;about_emoji&#34;&gt;&lt;/p&gt;
-&lt;p&gt;简单聊聊 Emoji，关于 emoji 你知道多少？&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Sat, 30 Jan 2021 19:43:21 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/blog/tags/%E9%A1%B9%E7%9B%AE/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>关于项目文档编写的一些思考和实践</title>
       <link>https://sunyunxian.github.io/blog/posts/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</link>
@@ -31,26 +21,6 @@
  和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；
 我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；
 工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &amp;gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github.</description>
-    </item>
-    
-    <item>
-      <title>常用的软件开发工具</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Sat, 26 Dec 2020 19:26:19 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/develop_tools.jpg&#34; alt=&#34;develop_tools&#34;&gt;&lt;/p&gt;
-&lt;p&gt;主要介绍个人开发常用的软件（Development Tools），暂不包括一些团队经常使用的软件比如 Gitlab、Jenkins&amp;hellip;每个人都有自己的喜爱，但是我想这些工具和产品只是辅助，最重要的是提供开发的便利，而不是陷入无边的争论中。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>工作三年，焦虑的想浅谈一下职场</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E7%84%A6%E8%99%91%E7%9A%84%E6%83%B3%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%81%8C%E5%9C%BA/</link>
-      <pubDate>Thu, 20 Aug 2020 15:57:50 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E7%84%A6%E8%99%91%E7%9A%84%E6%83%B3%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%81%8C%E5%9C%BA/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/work_3_year.jpg&#34; alt=&#34;work_3_year&#34;&gt;&lt;/p&gt;
-&lt;p&gt;此篇是 2020 年夏天时候比较焦虑的时候看的一个 talk，结合自己的感受整理和加工的文章，因为存在 iPhone 的 note 里面，格式不兼容，就转移出来了，整个文章可能偏公立一点，忽略人的价值，仅供参考！在 2021 年转回头看其实是有点无病呻吟，心态又不一样了，Anyway，这就是记录的意义吧。&lt;/p&gt;</description>
     </item>
     
   </channel>

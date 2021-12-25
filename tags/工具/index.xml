@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工具 on 场上没有别人 - No Others </title>
+    <link>https://sunyunxian.github.io/blog/tags/%E5%B7%A5%E5%85%B7/</link>
+    <description>Recent content in 工具 on 场上没有别人 - No Others </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 26 Dec 2020 19:26:19 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/blog/tags/%E5%B7%A5%E5%85%B7/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>常用的软件开发工具</title>
+      <link>https://sunyunxian.github.io/blog/posts/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sat, 26 Dec 2020 19:26:19 +0800</pubDate>
+      
+      <guid>https://sunyunxian.github.io/blog/posts/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/develop_tools.jpg&#34; alt=&#34;develop_tools&#34;&gt;&lt;/p&gt;
+&lt;p&gt;主要介绍个人开发常用的软件（Development Tools），暂不包括一些团队经常使用的软件比如 Gitlab、Jenkins&amp;hellip;每个人都有自己的喜爱，但是我想这些工具和产品只是辅助，最重要的是提供开发的便利，而不是陷入无边的争论中。&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
