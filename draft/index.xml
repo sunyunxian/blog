@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>场上没有别人 - No Others </title>
-    <link>https://sunyunxian.github.io/blog/</link>
-    <description>Recent content on 场上没有别人 - No Others </description>
+    <title>Drafts on 场上没有别人 - No Others </title>
+    <link>https://sunyunxian.github.io/blog/draft/</link>
+    <description>Recent content in Drafts on 场上没有别人 - No Others </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 15 Mar 2022 18:57:50 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Mar 2022 18:57:50 +0800</lastBuildDate><atom:link href="https://sunyunxian.github.io/blog/draft/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>假性亲密关系</title>
       <link>https://sunyunxian.github.io/blog/draft/%E5%81%87%E6%80%A7%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/</link>
@@ -48,16 +48,6 @@
     </item>
     
     <item>
-      <title>深度数位大扫除</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E6%B7%B1%E5%BA%A6%E6%95%B0%E4%BD%8D%E5%A4%A7%E6%89%AB%E9%99%A4/</link>
-      <pubDate>Sun, 20 Feb 2022 17:32:00 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E6%B7%B1%E5%BA%A6%E6%95%B0%E4%BD%8D%E5%A4%A7%E6%89%AB%E9%99%A4/</guid>
-      <description>&lt;p&gt;最近在读「深度数位大扫除」，读完了收获很多，在这个时代，如果在面对科技和线上生活的时候找回自己太重要了。感触比较深刻的：计算时间成本、活到线下后做什么替代线上生活。&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/social_media.jpg&#34; alt=&#34;social_media&#34;&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>人生哲学</title>
       <link>https://sunyunxian.github.io/blog/draft/E%E5%A4%A7%E4%BA%BA%E7%94%9F%E5%93%B2%E5%AD%A6/</link>
       <pubDate>Thu, 17 Feb 2022 21:24:04 +0000</pubDate>
@@ -89,92 +79,6 @@
       
       <guid>https://sunyunxian.github.io/blog/draft/%E6%97%85%E8%A1%8C%E7%9A%84%E8%89%BA%E6%9C%AF/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>简单聊聊 Emoji</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8AEmoji/</link>
-      <pubDate>Sat, 03 Apr 2021 17:27:13 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E7%AE%80%E5%8D%95%E8%81%8A%E8%81%8AEmoji/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/about_emoji.jpg&#34; alt=&#34;about_emoji&#34;&gt;&lt;/p&gt;
-&lt;p&gt;简单聊聊 Emoji，关于 emoji 你知道多少？&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>关于项目文档编写的一些思考和实践</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</link>
-      <pubDate>Sat, 30 Jan 2021 19:43:21 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E5%85%B3%E4%BA%8E%E9%A1%B9%E7%9B%AE%E6%96%87%E6%A1%A3%E7%BC%96%E5%86%99%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83%E5%92%8C%E5%AE%9E%E8%B7%B5/</guid>
-      <description>关于项目文档编写的一些思考和实践，分享我的选择文档工具的标准，日常写文档 flow 和工具推荐
-本文知识简单的讨论，不涉及到项目文档的一些很具体的写作手法，可以推荐一份 Google 的学习资源 Google 技术写作课程，里面也提到了一个很重要的概念「Every engineer is also a writer.」，最佳实践可以参考Google 开发者文档风格，当然也可以参考一下现在非常优秀的开源作品，比如 Vue、requests 等；
-为什么需要一份好的文档 一个成功的项目除了一些必须的因素之外，一个好的测试覆盖率、文档、维护活跃度、推广等等都是不可或缺的，软件工程不是代码工程，文档是软件工程中一个很重要的事情！一个项目映入眼帘的第一个是 README 文档，简单的介绍项目的内容和特色等，再往下就是项目文档，把整个项目 10% 的时间用来写文档也不为过！
-如果一个项目连文档都很应付，你能期待项目的代码写的会很好吗？
-什么才是一个好的文档工具 我认为一个好的文档工具应该有一下的特点：
- 和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；
-我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；
-工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information  site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &amp;gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github.</description>
-    </item>
-    
-    <item>
-      <title>再见 2020</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E5%86%8D%E8%A7%812020/</link>
-      <pubDate>Thu, 31 Dec 2020 22:53:07 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E5%86%8D%E8%A7%812020/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/2020_review.jpg&#34; alt=&#34;2020_review&#34;&gt;&lt;/p&gt;
-&lt;p&gt;非常简单的在 2020 年最后的一个多小时写了点，也算是画个句号和给自己 2020 一个交代，给自己 2021 年的目标关键词是记录。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>常用的软件开发工具</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</link>
-      <pubDate>Sat, 26 Dec 2020 19:26:19 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E5%B8%B8%E7%94%A8%E7%9A%84%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E5%B7%A5%E5%85%B7/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/develop_tools.jpg&#34; alt=&#34;develop_tools&#34;&gt;&lt;/p&gt;
-&lt;p&gt;主要介绍个人开发常用的软件（Development Tools），暂不包括一些团队经常使用的软件比如 Gitlab、Jenkins&amp;hellip;每个人都有自己的喜爱，但是我想这些工具和产品只是辅助，最重要的是提供开发的便利，而不是陷入无边的争论中。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>2020 年我的中文 Podcast 推荐</title>
-      <link>https://sunyunxian.github.io/blog/posts/2020%E5%B9%B4%E6%88%91%E7%9A%84%E4%B8%AD%E6%96%87Podcast%E6%8E%A8%E8%8D%90/</link>
-      <pubDate>Fri, 25 Dec 2020 00:32:06 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/2020%E5%B9%B4%E6%88%91%E7%9A%84%E4%B8%AD%E6%96%87Podcast%E6%8E%A8%E8%8D%90/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/my_2020_podacat_list.jpg&#34; alt=&#34;podcast_list&#34;&gt;&lt;/p&gt;
-&lt;p&gt;从 2013 年上大学开始，就开始听 Podcast，从大内密谈开始到现在还是很喜欢听，我觉得 Podcast 很大的意义上就是陪伴！下面介绍一下 2020 年经常听的一些中文 Podcast，算是一个推荐吧，因为每个人的喜好不一样，这里只做推荐，可以看成是一个 list，没有给出推荐理由，这也是我的第一期关于 Podcast 的内容，后续还会写一些，先开个头！&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>工作三年，焦虑的想浅谈一下职场</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E7%84%A6%E8%99%91%E7%9A%84%E6%83%B3%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%81%8C%E5%9C%BA/</link>
-      <pubDate>Thu, 20 Aug 2020 15:57:50 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E5%B7%A5%E4%BD%9C%E4%B8%89%E5%B9%B4%E7%84%A6%E8%99%91%E7%9A%84%E6%83%B3%E6%B5%85%E8%B0%88%E4%B8%80%E4%B8%8B%E8%81%8C%E5%9C%BA/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/work_3_year.jpg&#34; alt=&#34;work_3_year&#34;&gt;&lt;/p&gt;
-&lt;p&gt;此篇是 2020 年夏天时候比较焦虑的时候看的一个 talk，结合自己的感受整理和加工的文章，因为存在 iPhone 的 note 里面，格式不兼容，就转移出来了，整个文章可能偏公立一点，忽略人的价值，仅供参考！在 2021 年转回头看其实是有点无病呻吟，心态又不一样了，Anyway，这就是记录的意义吧。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>一些关于大学的碎碎念</title>
-      <link>https://sunyunxian.github.io/blog/posts/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</link>
-      <pubDate>Wed, 20 Mar 2019 15:57:50 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/%E4%B8%80%E4%BA%9B%E5%85%B3%E4%BA%8E%E5%A4%A7%E5%AD%A6%E7%9A%84%E7%A2%8E%E7%A2%8E%E5%BF%B5/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/about_university.jpg&#34; alt=&#34;about_university&#34;&gt;&lt;/p&gt;
-&lt;p&gt;这是一篇旧文，没有发出来，也不知道啥时候写的了，我去看了以下小史的那期节目，就给自己的这篇 blog 写了一个 create-time。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://sunyunxian.github.io/blog/posts/about_me/</link>
-      <pubDate>Fri, 25 Jan 2019 19:09:48 +0800</pubDate>
-      
-      <guid>https://sunyunxian.github.io/blog/posts/about_me/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;https://sunyunxian.github.io/blog/images/about_me.jpg&#34; alt=&#34;about&#34;&gt;&lt;/p&gt;
-&lt;p&gt;本文模仿&lt;a href=&#34;https://mp.weixin.qq.com/s?__biz=MzA3NTgzNzU2NQ==&amp;amp;mid=400594784&amp;amp;idx=1&amp;amp;sn=a88b34faa7522206957d448d40ea0b31&amp;amp;scene=21#wechat_redirect&#34;&gt;「利器社群计划」&lt;/a&gt;，主要向自己提问几个问题，在此基础问题上进行的拓展。&lt;/p&gt;</description>
     </item>
     
     <item>

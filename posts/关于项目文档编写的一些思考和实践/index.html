@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="utf-8" />
-  <meta name="generator" content="Hugo 0.92.2" />
+  <meta name="generator" content="Hugo 0.94.2" />
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -22,7 +22,7 @@
       "articleSection" : "posts",
       "name" : "关于项目文档编写的一些思考和实践",
       "headline" : "关于项目文档编写的一些思考和实践",
-      "description" : "关于项目文档编写的一些思考和实践，分享我的选择文档工具的标准，日常写文档 flow 和工具推荐\n本文知识简单的讨论，不涉及到项目文档的一些很具体的写作手法，可以推荐一份 Google 的学习资源 Google 技术写作课程，里面也提到了一个很重要的概念「Every engineer is also a writer.」，最佳实践可以参考Google 开发者文档风格，当然也可以参考一下现在非常优秀的开源作品，比如 Vue、requests 等；\n为什么需要一份好的文档 一个成功的项目除了一些必须的因素之外，一个好的测试覆盖率、文档、维护活跃度、推广等等都是不可或缺的，软件工程不是代码工程，文档是软件工程中一个很重要的事情！一个项目映入眼帘的第一个是 README 文档，简单的介绍项目的内容和特色等，再往下就是项目文档，把整个项目 10% 的时间用来写文档也不为过！\n如果一个项目连文档都很应付，你能期待项目的代码写的会很好吗？\n什么才是一个好的文档工具 我认为一个好的文档工具应该有一下的特点：\n 和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；\n我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；\n工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information site_name: My blog backup site_url: https:\/\/sunyunxian.github.io\/blog-doc-backup\/ site_author: Martin Donath site_description: \u0026gt;- personal blog backup,  # Repository repo_name: sunyunxian\/blog-doc-backup repo_url: https:\/\/github.",
+      "description" : "关于项目文档编写的一些思考和实践，分享我的选择文档工具的标准，日常写文档 flow 和工具推荐\n本文知识简单的讨论，不涉及到项目文档的一些很具体的写作手法，可以推荐一份 Google 的学习资源 Google 技术写作课程，里面也提到了一个很重要的概念「Every engineer is also a writer.」，最佳实践可以参考Google 开发者文档风格，当然也可以参考一下现在非常优秀的开源作品，比如 Vue、requests 等；\n为什么需要一份好的文档 一个成功的项目除了一些必须的因素之外，一个好的测试覆盖率、文档、维护活跃度、推广等等都是不可或缺的，软件工程不是代码工程，文档是软件工程中一个很重要的事情！一个项目映入眼帘的第一个是 README 文档，简单的介绍项目的内容和特色等，再往下就是项目文档，把整个项目 10% 的时间用来写文档也不为过！\n如果一个项目连文档都很应付，你能期待项目的代码写的会很好吗？\n什么才是一个好的文档工具 我认为一个好的文档工具应该有一下的特点：\n 和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；\n我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；\n工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information  site_name: My blog backup site_url: https:\/\/sunyunxian.github.io\/blog-doc-backup\/ site_author: Martin Donath site_description: \u0026gt;- personal blog backup,  # Repository repo_name: sunyunxian\/blog-doc-backup repo_url: https:\/\/github.",
       "inLanguage" : "en-US",
       "author" : "_Frank",
       "creator" : "_Frank",
@@ -46,7 +46,7 @@
 什么才是一个好的文档工具 我认为一个好的文档工具应该有一下的特点：
  和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；
 我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；
-工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &amp;gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github." />
+工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information  site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &amp;gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github." />
   <meta name="description" content="关于项目文档编写的一些思考和实践，分享我的选择文档工具的标准，日常写文档 flow 和工具推荐
 本文知识简单的讨论，不涉及到项目文档的一些很具体的写作手法，可以推荐一份 Google 的学习资源 Google 技术写作课程，里面也提到了一个很重要的概念「Every engineer is also a writer.」，最佳实践可以参考Google 开发者文档风格，当然也可以参考一下现在非常优秀的开源作品，比如 Vue、requests 等；
 为什么需要一份好的文档 一个成功的项目除了一些必须的因素之外，一个好的测试覆盖率、文档、维护活跃度、推广等等都是不可或缺的，软件工程不是代码工程，文档是软件工程中一个很重要的事情！一个项目映入眼帘的第一个是 README 文档，简单的介绍项目的内容和特色等，再往下就是项目文档，把整个项目 10% 的时间用来写文档也不为过！
@@ -54,7 +54,7 @@
 什么才是一个好的文档工具 我认为一个好的文档工具应该有一下的特点：
  和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；
 我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；
-工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &amp;gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github." />
+工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information  site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &amp;gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github." />
   <meta property="og:locale" content="en-us" />
 
   
@@ -83,7 +83,7 @@
 什么才是一个好的文档工具 我认为一个好的文档工具应该有一下的特点：
  和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；
 我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；
-工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github."/>
+工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information  site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github."/>
 
   
   
@@ -179,97 +179,97 @@
 <ol>
 <li>根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；</li>
 </ol>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#75715e"># Project information</span>
-
-<span style="color:#f92672">site_name</span>: <span style="color:#ae81ff">My blog backup</span>
-<span style="color:#f92672">site_url</span>: <span style="color:#ae81ff">https://sunyunxian.github.io/blog-doc-backup/</span>
-<span style="color:#f92672">site_author</span>: <span style="color:#ae81ff">Martin Donath</span>
-<span style="color:#f92672">site_description</span>: &gt;-<span style="color:#e6db74">
-</span><span style="color:#e6db74">  </span>  <span style="color:#ae81ff">personal blog backup, </span>
-<span style="color:#75715e"># Repository</span>
-<span style="color:#f92672">repo_name</span>: <span style="color:#ae81ff">sunyunxian/blog-doc-backup</span>
-<span style="color:#f92672">repo_url</span>: <span style="color:#ae81ff">https://github.com/sunyunxian/blog-doc-backup</span>
-<span style="color:#f92672">edit_uri</span>: <span style="color:#e6db74">&#34;&#34;</span>
-
-<span style="color:#75715e"># Copyright</span>
-<span style="color:#f92672">copyright</span>: <span style="color:#ae81ff">Copyright &amp;copy; 2020 - 2021 FrankSun</span>
-
-<span style="color:#75715e"># Configuration</span>
-<span style="color:#f92672">theme</span>:
-  <span style="color:#f92672">name</span>: <span style="color:#ae81ff">material</span>
-  <span style="color:#f92672">palette</span>:
-    <span style="color:#f92672">scheme</span>: <span style="color:#ae81ff">preference</span>
-    <span style="color:#f92672">primary</span>: <span style="color:#ae81ff">indigo</span>
-
-<span style="color:#75715e"># Page tree</span>
-<span style="color:#f92672">nav</span>:
-  - <span style="color:#f92672">2020</span>:
-    - <span style="color:#f92672">2</span>: <span style="color:#ae81ff">blog/2020/1.md</span>
-  - <span style="color:#f92672">2021</span>:
-    - <span style="color:#f92672">2</span>: <span style="color:#ae81ff">blog/2021/2.md</span>
-
-<span style="color:#f92672">markdown_extensions</span>:
-  - <span style="color:#ae81ff">admonition</span>
-  - <span style="color:#ae81ff">abbr</span>
-  - <span style="color:#ae81ff">attr_list</span>
-  - <span style="color:#ae81ff">def_list</span>
-  - <span style="color:#ae81ff">footnotes</span>
-  - <span style="color:#ae81ff">meta</span>
-  - <span style="color:#ae81ff">md_in_html</span>
-  - <span style="color:#f92672">toc</span>:
-      <span style="color:#f92672">permalink</span>: <span style="color:#66d9ef">true</span>
-  - <span style="color:#f92672">pymdownx.arithmatex</span>:
-      <span style="color:#f92672">generic</span>: <span style="color:#66d9ef">true</span>
-  - <span style="color:#f92672">pymdownx.betterem</span>:
-      <span style="color:#f92672">smart_enable</span>: <span style="color:#ae81ff">all</span>
-  - <span style="color:#ae81ff">pymdownx.caret</span>
-  - <span style="color:#ae81ff">pymdownx.critic</span>
-  - <span style="color:#ae81ff">pymdownx.details</span>
-  - <span style="color:#f92672">pymdownx.emoji</span>:
-      <span style="color:#f92672">emoji_index</span>: <span style="color:#75715e">!!python/name:materialx.emoji.twemoji</span>
-      <span style="color:#f92672">emoji_generator</span>: <span style="color:#75715e">!!python/name:materialx.emoji.to_svg</span>
-  - <span style="color:#ae81ff">pymdownx.highlight</span>
-  - <span style="color:#ae81ff">pymdownx.inlinehilite</span>
-  - <span style="color:#ae81ff">pymdownx.keys</span>
-  - <span style="color:#f92672">pymdownx.magiclink</span>:
-      <span style="color:#f92672">repo_url_shorthand</span>: <span style="color:#66d9ef">true</span>
-      <span style="color:#f92672">user</span>: <span style="color:#ae81ff">squidfunk</span>
-      <span style="color:#f92672">repo</span>: <span style="color:#ae81ff">mkdocs-material</span>
-  - <span style="color:#ae81ff">pymdownx.mark</span>
-  - <span style="color:#ae81ff">pymdownx.smartsymbols</span>
-  - <span style="color:#f92672">pymdownx.superfences</span>:
-      <span style="color:#f92672">custom_fences</span>:
-        - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">mermaid</span>
-          <span style="color:#f92672">class</span>: <span style="color:#ae81ff">mermaid</span>
-          <span style="color:#f92672">format</span>: <span style="color:#75715e">!!python/name:pymdownx.superfences.fence_code_format</span>
-  - <span style="color:#ae81ff">pymdownx.tabbed</span>
-  - <span style="color:#f92672">pymdownx.tasklist</span>:
-      <span style="color:#f92672">custom_checkbox</span>: <span style="color:#66d9ef">true</span>
-  - <span style="color:#ae81ff">pymdownx.tilde</span>
-
-<span style="color:#75715e"># Customization</span>
-<span style="color:#f92672">extra</span>:
-  <span style="color:#f92672">social</span>:
-    - <span style="color:#f92672">icon</span>: <span style="color:#ae81ff">fontawesome/brands/github</span>
-      <span style="color:#f92672">link</span>: <span style="color:#ae81ff">https://github.com/sunyunxian</span>
-    - <span style="color:#f92672">icon</span>: <span style="color:#ae81ff">fontawesome/brands/twitter</span>
-      <span style="color:#f92672">link</span>: <span style="color:#ae81ff">https://twitter.com/youtai2020</span>
-
-<span style="color:#75715e"># 自定义的 css 和 js</span>
-<span style="color:#f92672">extra_css</span>:
-  - <span style="color:#ae81ff">blog/stylesheets/extra.css</span>
-
-<span style="color:#f92672">extra_javascript</span>:
-  - <span style="color:#ae81ff">blog/javascripts/extra.js</span>
-
-<span style="color:#75715e"># Plugins</span>
-<span style="color:#f92672">plugins</span>:
-  - <span style="color:#ae81ff">search</span>
-
-<span style="color:#75715e"># Customization</span>
-
-<span style="color:#75715e"># Google Analytics</span>
-</code></pre></div><ol start="2">
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#75715e"># Project information</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">site_name</span>: <span style="color:#ae81ff">My blog backup</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">site_url</span>: <span style="color:#ae81ff">https://sunyunxian.github.io/blog-doc-backup/</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">site_author</span>: <span style="color:#ae81ff">Martin Donath</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">site_description</span>: &gt;-<span style="color:#e6db74">
+</span></span></span><span style="display:flex;"><span><span style="color:#e6db74">  </span>  <span style="color:#ae81ff">personal blog backup, </span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Repository</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">repo_name</span>: <span style="color:#ae81ff">sunyunxian/blog-doc-backup</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">repo_url</span>: <span style="color:#ae81ff">https://github.com/sunyunxian/blog-doc-backup</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">edit_uri</span>: <span style="color:#e6db74">&#34;&#34;</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Copyright</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">copyright</span>: <span style="color:#ae81ff">Copyright &amp;copy; 2020 - 2021 FrankSun</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Configuration</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">theme</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">name</span>: <span style="color:#ae81ff">material</span>
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">palette</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">scheme</span>: <span style="color:#ae81ff">preference</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">primary</span>: <span style="color:#ae81ff">indigo</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Page tree</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">nav</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">2020</span>:
+</span></span><span style="display:flex;"><span>    - <span style="color:#f92672">2</span>: <span style="color:#ae81ff">blog/2020/1.md</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">2021</span>:
+</span></span><span style="display:flex;"><span>    - <span style="color:#f92672">2</span>: <span style="color:#ae81ff">blog/2021/2.md</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">markdown_extensions</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">admonition</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">abbr</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">attr_list</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">def_list</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">footnotes</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">meta</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">md_in_html</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">toc</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">permalink</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">pymdownx.arithmatex</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">generic</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">pymdownx.betterem</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">smart_enable</span>: <span style="color:#ae81ff">all</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.caret</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.critic</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.details</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">pymdownx.emoji</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">emoji_index</span>: <span style="color:#75715e">!!python/name:materialx.emoji.twemoji</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">emoji_generator</span>: <span style="color:#75715e">!!python/name:materialx.emoji.to_svg</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.highlight</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.inlinehilite</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.keys</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">pymdownx.magiclink</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">repo_url_shorthand</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">user</span>: <span style="color:#ae81ff">squidfunk</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">repo</span>: <span style="color:#ae81ff">mkdocs-material</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.mark</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.smartsymbols</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">pymdownx.superfences</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">custom_fences</span>:
+</span></span><span style="display:flex;"><span>        - <span style="color:#f92672">name</span>: <span style="color:#ae81ff">mermaid</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">class</span>: <span style="color:#ae81ff">mermaid</span>
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">format</span>: <span style="color:#75715e">!!python/name:pymdownx.superfences.fence_code_format</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.tabbed</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#f92672">pymdownx.tasklist</span>:
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">custom_checkbox</span>: <span style="color:#66d9ef">true</span>
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">pymdownx.tilde</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Customization</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">extra</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">social</span>:
+</span></span><span style="display:flex;"><span>    - <span style="color:#f92672">icon</span>: <span style="color:#ae81ff">fontawesome/brands/github</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">link</span>: <span style="color:#ae81ff">https://github.com/sunyunxian</span>
+</span></span><span style="display:flex;"><span>    - <span style="color:#f92672">icon</span>: <span style="color:#ae81ff">fontawesome/brands/twitter</span>
+</span></span><span style="display:flex;"><span>      <span style="color:#f92672">link</span>: <span style="color:#ae81ff">https://twitter.com/youtai2020</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># 自定义的 css 和 js</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">extra_css</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">blog/stylesheets/extra.css</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">extra_javascript</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">blog/javascripts/extra.js</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Plugins</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">plugins</span>:
+</span></span><span style="display:flex;"><span>  - <span style="color:#ae81ff">search</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Customization</span>
+</span></span><span style="display:flex;"><span>
+</span></span><span style="display:flex;"><span><span style="color:#75715e"># Google Analytics</span>
+</span></span></code></pre></div><ol start="2">
 <li>
 <p>根目录下增加 doc 文件夹，在此文件夹下编写/修改 md 文件，在配置文件中的 <code>nav:</code> 下修改文档的顺序就好了；</p>
 </li>
@@ -277,22 +277,22 @@
 <p>使用 Github Action，写一个 yaml 自动部署文档，会自动生成文档，这个文档会在一个 <code>gh-pages</code> 分支下，使用 setting 下 Github page 即可，可以说 push 完后，文档就完成了自动化更新和部署，下面是 ci 的文件实例；</p>
 </li>
 </ol>
-<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4"><code class="language-yaml" data-lang="yaml"><span style="color:#f92672">name</span>: <span style="color:#ae81ff">ci</span>
-<span style="color:#f92672">on</span>:
-  <span style="color:#f92672">push</span>:
-    <span style="color:#f92672">branches</span>:
-      - <span style="color:#ae81ff">main</span>
-<span style="color:#f92672">jobs</span>:
-  <span style="color:#f92672">deploy</span>:
-    <span style="color:#f92672">runs-on</span>: <span style="color:#ae81ff">ubuntu-latest</span>
-    <span style="color:#f92672">steps</span>:
-      - <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">actions/checkout@v2</span>
-      - <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">actions/setup-python@v2</span>
-        <span style="color:#f92672">with</span>:
-          <span style="color:#f92672">python-version</span>: <span style="color:#ae81ff">3.</span><span style="color:#ae81ff">x</span>
-      - <span style="color:#f92672">run</span>: <span style="color:#ae81ff">pip install mkdocs-material</span>
-      - <span style="color:#f92672">run</span>: <span style="color:#ae81ff">mkdocs gh-deploy --force</span>
-</code></pre></div><p>基本上就是三个步骤，可以说只要写好 markdown 文档，剩下的事情就可以交给自动化了，非常方便；</p>
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-yaml" data-lang="yaml"><span style="display:flex;"><span><span style="color:#f92672">name</span>: <span style="color:#ae81ff">ci</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">on</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">push</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">branches</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#ae81ff">main</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">jobs</span>:
+</span></span><span style="display:flex;"><span>  <span style="color:#f92672">deploy</span>:
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">runs-on</span>: <span style="color:#ae81ff">ubuntu-latest</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">steps</span>:
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">actions/checkout@v2</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">uses</span>: <span style="color:#ae81ff">actions/setup-python@v2</span>
+</span></span><span style="display:flex;"><span>        <span style="color:#f92672">with</span>:
+</span></span><span style="display:flex;"><span>          <span style="color:#f92672">python-version</span>: <span style="color:#ae81ff">3.</span><span style="color:#ae81ff">x</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">run</span>: <span style="color:#ae81ff">pip install mkdocs-material</span>
+</span></span><span style="display:flex;"><span>      - <span style="color:#f92672">run</span>: <span style="color:#ae81ff">mkdocs gh-deploy --force</span>
+</span></span></code></pre></div><p>基本上就是三个步骤，可以说只要写好 markdown 文档，剩下的事情就可以交给自动化了，非常方便；</p>
 <p>以上只是我的个人使用实践，欢迎分享你的实践！</p>
 <h2 id="工具推荐">工具推荐</h2>
 <p>一些开源的文档写作工具，直接去看官方文档就好了，非常直观清晰</p>
