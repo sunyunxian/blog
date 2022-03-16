@@ -131,9 +131,9 @@ a:hover {
 .site-footer {
   margin-top: 50px;
   /* margin-bottom: 80px; */
-  /* display: flex; */
+  display: flex;
   /* justify-content: flex-end; */
-  /* flex-wrap: wrap; */
+  flex-wrap: wrap;
   /* padding: 12px 0; */
   /* border-width: 3px; */
   /* border-style: solid none; */

@@ -1,2 +1,4 @@
 # Gen html
 public/
+# hogo lock
+.hugo_build.lock
