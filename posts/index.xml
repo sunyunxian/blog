@@ -38,9 +38,9 @@
 为什么需要一份好的文档 一个成功的项目除了一些必须的因素之外，一个好的测试覆盖率、文档、维护活跃度、推广等等都是不可或缺的，软件工程不是代码工程，文档是软件工程中一个很重要的事情！一个项目映入眼帘的第一个是 README 文档，简单的介绍项目的内容和特色等，再往下就是项目文档，把整个项目 10% 的时间用来写文档也不为过！
 如果一个项目连文档都很应付，你能期待项目的代码写的会很好吗？
 什么才是一个好的文档工具 我认为一个好的文档工具应该有一下的特点：
- 和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的  我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；
+和项目可以在一起，并不会污染代码，源文件可以纳入版本控制系统 自动化生成，基于源文件，一般都是 markdown 格式，要有一个命令行或者脚手架解决 可配置、可拓展、可自定义 文档的页面直观、简单，该有的基础文档功能都内置 自动化部署 文档工具也应该有好的文档说明，如果没有，那这个工具是不可信赖的 我的一些实践 工具选择 现在市面上好用的文档工具很多，按照各自喜好选择就可以了，工具最好能遵循上文的 6 个原则；
 我选择的是基于 Python 的 mkdocs-material，使用了 materical 风格设计；
-工作流  根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档；  # Project information  site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &amp;gt;- personal blog backup,  # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github.</description>
+工作流 根目录配置文件，我有一个模板，一般配置好直接使用就好了，类似下面的格式，可以观看官方文档； # Project information site_name: My blog backup site_url: https://sunyunxian.github.io/blog-doc-backup/ site_author: Martin Donath site_description: &amp;gt;- personal blog backup, # Repository repo_name: sunyunxian/blog-doc-backup repo_url: https://github.com/sunyunxian/blog-doc-backup edit_uri: &amp;#34;&amp;#34; # Copyright copyright: Copyright &amp;amp;copy; 2020 - 2021 FrankSun # Configuration theme: name: material palette: scheme: preference primary: indigo # Page tree nav: - 2020: - 2: blog/2020/1.</description>
     </item>
     
     <item>
